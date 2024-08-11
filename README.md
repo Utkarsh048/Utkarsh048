@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Prakhar</h1>
 <h3 align="center">I'm a dedicated software developer and technology enthusiast. My repositories serve as a testament to my coding and software development journey. Within these digital collections, you'll discover an array of projects that demonstrate my unwavering commitment to learning and crafting innovative solutions.</h3>
 
-- 🔭 I’m currently working on **mySQL**
+- 🔭 I’m currently working on **DSA**
 
 - 🌱 I’m currently learning **WebDev**
 
